@@ -1,0 +1,13 @@
+# Proyecto Pipeline 2do Bimestre
+
+Este repositorio contiene un aplicativo simple en Python junto con un pipeline automatizado (GitHub Actions) que ejecuta pruebas automáticas cada vez que se realiza un push al repositorio.
+
+**¿Qué incluye?**
+- Archivo principal: `principal.py`
+- Pruebas automáticas: `test_principal.py`
+- Pipeline CI/CD en `.github/workflows/python-app.yml`
+
+Cada vez que se sube código, el pipeline se ejecuta automáticamente para asegurar la calidad y correcto funcionamiento del aplicativo.
+
+**Integrante:**  
+Darwin Guachamin
